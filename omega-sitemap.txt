@@ -53,8 +53,8 @@ https://cracky-chan.com/
 https://cracky-chan.com/404
 https://cracky-chan.com/discord/
 https://cracky-chan.com/gallery1/
-https://cracky-chan.com/gallery1/index000.html
-https://cracky-chan.com/gallery1/index001.html
+https://cracky-chan.com/gallery1/index000
+https://cracky-chan.com/gallery1/index001
 https://cracky-chan.com/legal/
 https://cracky-chan.com/links/
 https://cracky-chan.com/omega-sitemap.txt
@@ -192,6 +192,8 @@ https://fanart.crackychan.net/art/artists/streetlights/song/
 https://fanart.crackychan.net/art/from-crackypedia/
 https://fanart.crackychan.net/art/from-dear-olivia/
 https://fanart.crackychan.net/art/from-fb-fanpage/
+https://fanart.crackychan.net/art/oekaki-ch/
+https://fanart.crackychan.net/art/oekaki-new/
 https://fanart.crackychan.net/art/sets/
 https://fanart.crackychan.net/art/sets/ai-gahaku/
 https://fanart.crackychan.net/art/sets/artbreeder/
@@ -303,6 +305,7 @@ https://ipv6.cracky-chan.com/files/misc/empty/
 https://ipv6.cracky-chan.com/files/misc/fridge/
 https://ipv6.cracky-chan.com/files/misc/iphone-ringtones/
 https://ipv6.cracky-chan.com/files/misc/somewhere/
+https://ipv6.cracky-chan.com/files/submissions/
 https://ipv6.cracky-chan.com/files/wayback-stuff/
 https://ipv6.cracky-chan.com/files/wayback-stuff/13t.org-spanish-cracky-thread/
 https://ipv6.cracky-chan.com/files/wayback-stuff/43things-scarecrowmaiden/
@@ -446,6 +449,7 @@ https://skyqueen.cc/missing-files.txt
 https://skyqueen.cc/pasta8.txt
 https://skyqueen.cc/robots.txt
 https://skyqueen.cc/sitemap.txt
+https://skyqueen.cc/src/
 https://wish.kamistik.com/
 https://wish.kamistik.com/nope.txt
 https://wish.kamistik.com/rightframe
