@@ -1,7 +1,8 @@
-http://crackychan.bounceme.net/
-http://crackychan.bounceme.net/cgi-bin/classic.rb
-http://crackychan.bounceme.net/robots.txt
-http://crackychan.bounceme.net/sitemap.txt
+http://[2a04:dd00:16:7:195:242:99:71]/
+http://[2a04:dd00:16:7:195:242:99:71]/board/
+http://[2a04:dd00:16:7:195:242:99:71]/cgi-bin/classic.rb
+http://[2a04:dd00:16:7:195:242:99:71]/robots.txt
+http://[2a04:dd00:16:7:195:242:99:71]/sitemap.txt
 https://angelesdelabismo.com/
 https://angelesdelabismo.com/404
 https://angelesdelabismo.com/gallery7/
@@ -51,6 +52,7 @@ https://catharsis.cracky-chan.com/testgallery/cracky1.html
 https://catharsis.cracky-chan.com/testgallery/cracky2.html
 https://cracky-chan.com/
 https://cracky-chan.com/404
+https://cracky-chan.com/carpfood/
 https://cracky-chan.com/discord/
 https://cracky-chan.com/gallery1/
 https://cracky-chan.com/gallery1/index000
@@ -77,6 +79,10 @@ https://cracky.win/cgi-bin/classic.rb
 https://cracky.win/robots.txt
 https://cracky.win/sitemap.txt
 https://cracky.win/src/
+https://crackychan.bounceme.net/
+https://crackychan.bounceme.net/cgi-bin/classic.rb
+https://crackychan.bounceme.net/robots.txt
+https://crackychan.bounceme.net/sitemap.txt
 https://crackychan.net/
 https://crackychan.net/404
 https://crackychan.net/gallery6/
@@ -198,6 +204,7 @@ https://fanart.crackychan.net/art/sets/
 https://fanart.crackychan.net/art/sets/ai-gahaku/
 https://fanart.crackychan.net/art/sets/artbreeder/
 https://fanart.crackychan.net/art/sets/bittersweet/
+https://fanart.crackychan.net/art/sets/dall-e-mini/
 https://fanart.crackychan.net/art/sets/distorted/
 https://fanart.crackychan.net/art/sets/dollmaker-picrew/
 https://fanart.crackychan.net/art/sets/dreamscope/
@@ -456,8 +463,3 @@ https://wish.kamistik.com/rightframe
 https://wish.kamistik.com/robots.txt
 https://wish.kamistik.com/sitemap.txt
 https://youtube.cracky-chan.tk/
-http://[2a04:dd00:16:7:195:242:99:71]/
-http://[2a04:dd00:16:7:195:242:99:71]/board/
-http://[2a04:dd00:16:7:195:242:99:71]/cgi-bin/classic.rb
-http://[2a04:dd00:16:7:195:242:99:71]/robots.txt
-http://[2a04:dd00:16:7:195:242:99:71]/sitemap.txt
